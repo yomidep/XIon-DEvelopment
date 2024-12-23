@@ -36,7 +36,7 @@ The repository contains examples of:
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/yomidep/XIon-DEvelopment
 ```
 
 2. Install dependencies:
